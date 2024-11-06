@@ -1,13 +1,5 @@
 {
   "dependencies": {
     "firebase": "^11.0.1"
-  },
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "setup-build": "npm ci && npm run build"
   }
 }
